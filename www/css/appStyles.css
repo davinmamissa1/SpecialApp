@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	background-color: rgba(214,255,254,1.00);
+	background-image: url(../image/Background.jpg)
+	}
+#indextext{ 
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	color: rgba(137,248,48,1.00);
+	}
+#indextext h1{
+	font-size: 60px;
+	}
+#indextext h1 b {
+	font-size: 100px;
+	}
+#wrapper{
+	position: absolute;
+	width: 80%;
+	margin-top: 100px;
+	}
+#wrapper1{
+	position: absolute;
+	width: 100%;
+	margin-top: 100px;
+	}
+h1{
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: bold;
+	font-size: 60px;
+	
+	}
+#menu{
+	float:left;
+	width: 100%;
+	margin-top: 50px;
+	margin-left: 30%;
+	}
+#S {
+	float: left;
+	width: 200px;
+	}
+#Strength{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	}
+#P{
+	float: left;
+	width: 200px
+
+	}
+#Preception{
+	
+	}
+#E{
+	float: left;
+	width: 200px;
+
+	}
+#Endurance{
+	
+	}
+#C{
+	float: left;
+	width: 200px;
+
+
+	}
+#Charisma{
+	
+	}
+#I{
+	float: left;
+	width: 200px;
+
+
+	}
+#Intelligence{
+	
+	}
+#A{
+	float: left;
+	width: 200px;
+
+
+	}
+#Agility{
+	
+	}
+	
+#L{
+	float: left;
+	width: 200px;
+
+
+	}
+table{
+	margin-left: auto;
+	margin-right: auto;
+	border-left-style:outset;
+	border-color: none;
+	}
+table img{
+	
+	}
+#text {
+	color: rgba(137,248,48,1.00);
+	width: auto;
+	height: auto;
+	}	
+#low{
+	width: 200px;
+	margin-left: 20%;
+	}
+#footer{
+	color: rgba(137,248,48,1.00); 
+	}
+ul{
+	list-style-type: circle;
+	}
